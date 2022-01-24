@@ -27,7 +27,9 @@ I enjoy speaking about Android and mobile app security. If you’d like me to co
 * Android Dialogs YouTube channel (video was never published)
 * SWmobile, Bristol – What’s new from Google I/O – [slides](https://speakerdeck.com/scottyab/what-s-new-from-google-io-2018)
 
-
+| Speaking at Droidcon London | 
+| ------ | 
+![What’s new in Android P Security](./images/2018droidcon.jpg) |
 
 ## 2017
 * SWmobile, Bristol – Doppl, an intro – [video](https://youtu.be/WSR2nIzGrW4)
@@ -39,11 +41,17 @@ I enjoy speaking about Android and mobile app security. If you’d like me to co
 * South West IoT meetup, Bristol – Android Things – an intro
 * SWmobile, Bristol – Android Things (lightning talk)
 
+[![O-mg what’s new in Android Security?](./images/2017omgwhatsnew.jpg)](https://www.youtube.com/watch?v=HbaRRdennq4 "O-mg what’s new in Android Security?")
+
 ## 2016
 * Droidcon, UK 2016 – What’s NNNNew in Android Security? 
 * Londroid, London, May 2016 – Android App Security on a Budget – [link](https://www.meetup.com/android/events/228639340/)
 * MCE, Warsaw 2016 – Android App Security on a Budget  – [info](http://2016.mceconf.com/program/speakers/), slides.  I really enjoyed telling the story of how in a recent app I was able to add security enhancements with minimal effort.
 * Bristol University, CS course Guest Lecture  –  Getting Started in Android development –  slides
+
+| Hosting talks at SW mobile Meetup | Q&A at SW mobile Meetup |
+| ------ | ----- |
+![SWmobile Talk](./images/2016swmobile.jpg) | ![SWmobile Talk](./images/2016swmobileoct.jpg) 
 
 ## 2015
 * GoTo Copenhagen 2015 – The Android Security Jungle: Pitfalls, Threats & Survival Tips – [video](https://www.youtube.com/watch?v=18tn_mF4XRg)
@@ -51,9 +59,14 @@ I enjoy speaking about Android and mobile app security. If you’d like me to co
 * Bristol University, Guest Lecture  – Jump starting your Android development  
 
 ## 2014
-* RSA, San Francisco, USA 2014 – Assume a Hostile Environment: Securing Mobile Data in the App. 
+* RSA, San Francisco, USA 2014 – Assume a Hostile Environment: Securing Mobile Data in the App. [link](https://web.archive.org/web/20160321065520/http://www.rsaconference.com/events/us14/agenda/sessions/995/assume-a-hostile-environment-securing-mobile-data) 
 * SWmobile, What’s new in Android 
 * SWmobile, Google Cast
+
+| Speaking at RSA, San Francisco | 
+| ------ | 
+![Assume a Hostile Environment](./images/2014RSA.jpg) |
+
 
 ## <2013
 * Droidcon UK and NL 2013 – Hardening your Android app
