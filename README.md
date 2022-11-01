@@ -7,7 +7,7 @@
   - Code Review i.e security code review
   - Android technical interviews - Do you have a need for Android technical resource and desire unbiased technical review of potential candidates?
 
-- 🔭 I’m currently working with [Help Scout](https://github.com/helpscout) building an Android app and SDK
+- 🔭 My most recent poisition was working with [Help Scout](https://github.com/helpscout) building an Android app and SDK
   - Day to day using MVI/Clean architectrue utilising Kotlin and Coroutines Flow, Room, Bitrise
   - Most proud of the real-time Chat SDK which I built from ground up using Push notifications, WebSockets with UI using MotionLayout
 - 🗣 I enjoy speaking at conferences and have presented internationally about Android and app security. See [speaker timeline](./speaker_timeline.md) for more details
