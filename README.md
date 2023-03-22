@@ -4,7 +4,8 @@
   - Android App design, build and test services
   - Android SDK specific consultancy, how to design, build, distribute open or closed source SDKs in the Android ecosystem
   - App security and hardening techniques
-  - Code Review i.e security code review
+  - Gradle: preformence optimisation, test automation, CI and CD to Google Play or maven central
+  - Code Review: improving team processes, architectural and/or security review
   - Android technical interviews - Do you have a need for Android technical resource and desire unbiased technical review of potential candidates?
 
 - 🔭 My most recent poisition was working with [Help Scout](https://github.com/helpscout) building an Android app and SDK
