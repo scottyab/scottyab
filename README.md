@@ -11,6 +11,7 @@
 - 🔭 My most recent poisition was working with [Help Scout](https://github.com/helpscout) building an Android app and SDK
   - Day to day using MVI/Clean architectrue utilising Kotlin and Coroutines Flow, Room, Bitrise
   - Most proud of the real-time Chat SDK which I built from ground up using Push notifications, WebSockets with UI using MotionLayout
+- 🌍 I blog at [scottyab.com](https://scottyab.com) about Android, software engineering and various other interests. 
 - 🗣 I enjoy speaking at conferences and have presented internationally about Android and app security. See [speaker timeline](./speaker_timeline.md) for more details
 - 🎉 Google officially recognised my Android community contributions in 2016 by inviting me to the Google Developer Experts (GDE) programme where I was an active member until 2022.
 
@@ -23,4 +24,4 @@
 - ⚡ Fun facts: 
   - 🌯🌮 Favourite food is anything Mexican, but especially burritos 
   - 🍻☕️ Enjoy craft beer and freshly ground good coffee
-  - 🏃‍♂️🏔 Love trail running espeically when things get lumpy
+  - 🏃‍♂️🏔 Love long disance trail running espeically in the mountains
